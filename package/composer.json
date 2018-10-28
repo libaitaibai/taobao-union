@@ -9,6 +9,7 @@
     ],
     "autoload": {
         "classmap": [
+            "vendor/taobao/package/src"
         ],
         "psr-4": {
             "taobao\\":"vender/taobao/package/src",

@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\security;
 class TopSecretGetRequest
 {
 	private $apiParas = array();
