@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\security;
 	class SecretContext
 	{
 		var $secret;

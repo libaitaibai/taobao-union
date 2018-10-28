@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\domain;
 /**
  * 商品数据
  * @author auto create

@@ -1,4 +1,5 @@
 <?php
+namespace taobao\top\domain;
 /**
  * TOP API: taobao.appip.get request
  * 

@@ -1,4 +1,5 @@
 <?php
+namespace taobao\top\request;
 /**
  * TOP API: taobao.top.auth.token.refresh request
  * 

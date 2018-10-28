@@ -1,4 +1,5 @@
 <?php
+namespace taobao\aliyun;
 class AliyunClient
 {
 	public $accessKeyId;

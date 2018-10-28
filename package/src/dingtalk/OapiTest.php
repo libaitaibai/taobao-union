@@ -1,4 +1,5 @@
 <?php
+namespace taobao\dingtalk;
 include "TopSdk.php";
 date_default_timezone_set('Asia/Shanghai');
 $c = new DingTalkClient(DingTalkConstant::$CALL_TYPE_OAPI, DingTalkConstant::$METHOD_POST , DingTalkConstant::$FORMAT_JSON);

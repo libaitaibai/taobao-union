@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\domain;
 /**
  * 扩展属性
  * @author auto create

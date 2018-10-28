@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\domain;
 /**
  * 淘宝联盟选品和招商宝贝信息
  * @author auto create

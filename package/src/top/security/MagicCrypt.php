@@ -1,4 +1,5 @@
 <?php
+namespace taobao\top\security;
     class Security {
 
         private static $iv = "0102030405060708";

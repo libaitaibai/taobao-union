@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\domain;
 /**
  * 淘抢购对象
  * @author auto create

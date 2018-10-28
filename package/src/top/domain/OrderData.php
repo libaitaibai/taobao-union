@@ -1,5 +1,5 @@
 <?php
-
+namespace taobao\top\domain;
 /**
  * 复购订单，仅适用于手淘拉新
  * @author auto create

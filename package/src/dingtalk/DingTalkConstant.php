@@ -1,4 +1,5 @@
 <?php
+namespace taobao\dingtalk;
 /**
  * Created by PhpStorm.
  * User: zuodeng
